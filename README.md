@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edward Plowden</h1>
 <h3 align="center">A passionate frontend developer from England</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475tvdh1i7x0ey550rrear8pyn2bq4408g69usojc8&ep=v1_gifs_search&rid=giphy.gif&ct=g”>
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475tvdh1i7x0ey550rrear8pyn2bq4408g69usojc8&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning **React**
 
